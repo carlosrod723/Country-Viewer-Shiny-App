@@ -2,7 +2,7 @@
 
 This repository contains an interactive web application developed using R Shiny, Leaflet, and PostgreSQL/PostGIS. The app allows users to visualize country-level geospatial data and perform advanced spatial operations such as buffering and intersection. It also provides the option for users to upload their own shapefiles, overlaying them on the existing map data for comparison.
 
-![App Screenshot](./image)
+![App Screenshot](./image.png)
 
 ## Key Features
 
